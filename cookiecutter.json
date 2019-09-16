@@ -1,0 +1,6 @@
+{
+    "project_name": "scf_vscode",
+    "runtime": "nodejs8.9",
+    "namespace": "default"
+}
+
